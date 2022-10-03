@@ -1,0 +1,23 @@
+{
+    "juz": {
+        "total": 30,
+        "content": [{
+            "id": 1,
+            "juz": 1,
+            "startPage": 1,
+            "endPage": 2
+        }]
+    },
+    "surah": {
+        "total": 114,
+        "content": [{
+            "id": 1,
+            "name": "Al Fatihah",
+            "nameOpt": ["Al Fatihah"],
+            "startOnJuz": 1,
+            "endOnJuz": 1,
+            "startPage": 1,
+            "endPage": 2
+        }]
+    }
+}
